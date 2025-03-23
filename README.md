@@ -2,6 +2,8 @@
 
 This repository contains files associated with a workshop on web scraping created for the University of Oklahoma's Digital Humanities Community of Practice.
 
+The Jupyter Notebook for this tutorial is available on Google Colab at <https://colab.research.google.com/drive/1IjHOhmEKamnqMP8VCOY3uUzcjkTkHikW#scrollTo=p3byaK2jEObF>.
+
 In this tutorial, we'll imagine that our task is to assemble a table of basic information about the universities in the [Southeastern Conference (SEC)](https://www.secsports.com/). We *could* go to the websites of all sixteen organizations and hunt down everything we need to know, but that would take hours or even days. We need the information **now**.
 
 We'll build a scraper that will do the following:
