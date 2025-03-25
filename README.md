@@ -43,3 +43,21 @@ Many commercial services offer low-code or no-code solutions for scraping conten
 - [Browse.ai](https://www.browse.ai/)
 - [Octoparse](https://www.octoparse.com/)
 - [Scrapfly](https://scrapfly.io/)
+
+_____
+## Setting Up the Environment
+
+### Using Conda
+To recreate the Conda environment, run:
+```bash
+conda env create -f [environment.yml](http://_vscodecontentref_/8)
+```
+
+### Using Pip
+
+```bash
+python -m venv venv
+source venv/bin/activate  
+# On Windows: venv\Scripts\activate
+pip install -r [requirements.txt](http://_vscodecontentref_/9)
+```
