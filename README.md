@@ -48,17 +48,17 @@ _____
 ## Setting Up the Environment
 
 ### Using Conda
-To recreate the Python environment used in this tutorial, run this in the Terminal:
+To use Conda to recreate the Python environment used in this tutorial, run this in the Terminal:
 ```bash
-conda env create -f [environment.yml](http://_vscodecontentref_/8)
+conda env create -f environment.yml
 ```
 
 ### Using Pip
 
 To use Pip to recreate the Python environment used in this tutorial, run this in the Terminal
 ```bash
-python -m venv venv
+python -m venv webscraping
 source venv/bin/activate  
 # On Windows: venv\Scripts\activate
-pip install -r [requirements.txt](http://_vscodecontentref_/9)
+pip install -r requirements.txt
 ```

@@ -1,0 +1,1 @@
+I need to scrape information from https://en.wikipedia.org/wiki/Southeastern_Conference. I want to use BeautifulSoup to scrape the table with column headers "Institution", "Location," "Founded", "Joined", "Enrollment", "Endowment (billions – FY24)", "Nickname", and "Colors".
